@@ -7,6 +7,6 @@ do
 	mkdir $target
 	cd $target
 	../../ct-ng $target
-	#../../ct-ng build
+	../../ct-ng build
 	cd ../	
 done
